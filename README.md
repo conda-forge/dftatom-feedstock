@@ -46,24 +46,24 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-              <td>osx</td>
+              <td>osx_fortran_compiler_version4</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/dftatom-feedstock?branchName=master&jobName=osx&configuration=osx_" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/dftatom-feedstock?branchName=master&jobName=osx&configuration=osx_fortran_compiler_version4" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_cxx_compilervs2008</td>
+              <td>osx_fortran_compiler_version7</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/dftatom-feedstock?branchName=master&jobName=win&configuration=win_cxx_compilervs2008" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/dftatom-feedstock?branchName=master&jobName=osx&configuration=osx_fortran_compiler_version7" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_cxx_compilervs2015</td>
+              <td>win_cxx_compilervs2015vc14</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/dftatom-feedstock?branchName=master&jobName=win&configuration=win_cxx_compilervs2015" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/dftatom-feedstock?branchName=master&jobName=win&configuration=win_cxx_compilervs2015vc14" alt="variant">
                 </a>
               </td>
             </tr>
