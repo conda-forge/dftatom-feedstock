@@ -10,13 +10,14 @@ source:
   sha256: b788aaaa1d2958c31bd7ada8a6c8ab9df951c7569f6786fd109fdf10d84f3478
 
 build:
-  number: 3
+  number: 4
   skip: True   # [win and vc<14]
 
 requirements:
   build:
     - {{ compiler('fortran') }}
     - {{ compiler('cxx') }}
+    - {{ stdlib("c") }}
     - cmake
     - make
   host:
